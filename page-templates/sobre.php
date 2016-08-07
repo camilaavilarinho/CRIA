@@ -12,7 +12,11 @@ get_header();
 				while ( have_posts() ) : the_post();
 					?>
 					<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-						<h1 class="entry-title"><?php the_title(); ?></h1>
+						<!--<h1 class="entry-title"><?php the_title(); ?></h1>-->
+						<section class="col-lg-12 text-center">
+							<h2 class="section-heading"><?php the_title(); ?></h2>
+							<hr class="primary">
+						</section>
 
 					    <div class="entry-content description clearfix">
 						    <?php the_content( __( 'Read more', 'arcade') ); ?>
@@ -27,7 +31,7 @@ get_header();
 						<a href="<?php printf(home_url());?>/projetos"><div class="col-md-6">
 							<div class="dashboard-div-wrapper bk-clr-two">
 								<i class="fa fa-edit dashboard-div-icon fa-2x"></i>
-								<h4>Projetos</h4>
+								<h4>Programas</h4>
 							</div>
 						</div></a>
 						<a href="<?php printf(home_url());?>/como-ajudar"><div class="col-md-6">
@@ -37,7 +41,7 @@ get_header();
 							</div>
 						</div></a>
 					</div>
-					<?php					
+					<?php
 				endwhile;
 				?>
 			</div>
