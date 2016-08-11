@@ -354,6 +354,16 @@ header .img-responsive{
     background: #bdc3c7;
 }
 
+.modal-como-ajudar .modal-content{
+  width: 70%;
+  min-height: 40%;
+  margin-left: 20%;
+  margin-top: 10%;
+}
+.modal-como-ajudar p{
+  margin-top: 60px;
+  text-align: justify;
+}
 /*-------------------------Page 'Como Ajudar'----------------------------------*/
 section .section-heading {
     margin-top: 0;

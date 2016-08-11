@@ -6,9 +6,13 @@ get_header();
 ?>
 <div class="container">
   <div class="row">
-    <div class="col-lg-12 text-center">
-      <h2 class="section-heading">Formulário</h2>
-      <hr class="primary">
+    <div id="primary">
+      <div class="col-lg-12 text-center">
+        <section class="col-lg-12 text-center">
+          <h2 class="section-heading"><?php the_title(); ?></h2>
+          <hr class="primary">
+        </section>
+      </div>
     </div>
     <?php
     while ( have_posts() ) : the_post();
