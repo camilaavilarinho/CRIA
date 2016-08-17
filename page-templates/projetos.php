@@ -21,7 +21,7 @@ get_header();
 										<i class="fa fa-plus fa-3x"></i>
 									</div>
 								</div>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/familia.png" class="img-responsive" alt="">
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/acolhedora.png" class="img-responsive" alt="">
 							</a>
 							<div class="portfolio-caption">
 								<h4>Família Acolhedora</h4>
@@ -34,7 +34,7 @@ get_header();
 										<i class="fa fa-plus fa-3x"></i>
 									</div>
 								</div>
-								<img src="<?php bloginfo('stylesheet_directory');?>/images/projetos/papo.png" class="img-responsive" alt="">
+								<img src="<?php bloginfo('stylesheet_directory');?>/images/projetos/escola.png" class="img-responsive" alt="">
 							</a>
 							<div class="portfolio-caption">
 								<h4>Escola de Família</h4>
@@ -47,7 +47,7 @@ get_header();
 										<i class="fa fa-plus fa-3x"></i>
 									</div>
 								</div>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/maosdadas.png" class="img-responsive" alt="">
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/fortalecendo.png" class="img-responsive" alt="">
 							</a>
 							<div class="portfolio-caption">
 								<h4>Fortalecendo vínculos</h4>
@@ -60,7 +60,7 @@ get_header();
 										<i class="fa fa-plus fa-3x"></i>
 									</div>
 								</div>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/exposicao.png" class="img-responsive" alt="">
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/papoadocao.png" class="img-responsive" alt="">
 							</a>
 							<div class="portfolio-caption">
 								<h4>Papo da Adoção</h4>
@@ -73,7 +73,7 @@ get_header();
 										<i class="fa fa-plus fa-3x"></i>
 									</div>
 								</div>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/grupo.png" class="img-responsive" alt="">
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/adocoes.png" class="img-responsive" alt="">
 							</a>
 							<div class="portfolio-caption">
 								<h4>Adoções Necessárias</h4>
@@ -100,7 +100,7 @@ get_header();
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="modal-body">
 						<h2>Programa Família Acolhedora</h2>
-						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/familia.jpg" alt="">
+						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/acolhedora.jpg" alt="">
 						<p>O <strong>Programa Família Acolhedora</strong> é um acolhimento familiar temporário de crianças e adolescentes até que estes sejam reintegrados à família de origem ou disponibilizados para adoção</p>
 						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
 					</div>
@@ -123,7 +123,7 @@ get_header();
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="modal-body">
 						<h2>Escola de Família</h2>
-						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/papo.jpg" alt="">
+						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/escola.jpg" alt="">
 						<p>Trabalha com a rede escolar realizando ações socioeducativas com alunos e suas famílias para contribuir com o fortalecimento das relações e prevenir a ruptura dos vínculos familiares e um consequente abrigamento.</p>
 						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
 					</div>
@@ -146,7 +146,7 @@ get_header();
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="modal-body">
 						<h2>Fortalecendo vínculos</h2>
-						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/maosdadas.jpg" alt="">
+						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/fortalecendo.jpg" alt="">
 						<p>Acompanhamento psicossocial às famílias de origem das crianças e adolescentes inseridos nos programas visando sua reintegração, sempre que possível, e continuidade do acompanhamento após a reintegração.</p>
 						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
 					</div>
@@ -169,7 +169,7 @@ get_header();
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="modal-body">
 						<h2>Papo da Adoção</h2>
-						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/exposicao.jpg" alt="">
+						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/papoadocao.jpg" alt="">
 						<p>Reunião com pretendentes e adotantes visando a preparação para o exercício da maternidade/paternidade. Sempre na última sexta-feira de cada mês, às 18 horas, na sede do Cria.</p>
 						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
 					</div>
@@ -216,7 +216,7 @@ get_header();
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="modal-body">
 						<h2>Adoções Necessárias</h2>
-						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/grupo.jpg" alt="">
+						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/adocoess.png" alt="">
 						<p>Busca ativa por famílias para adoção de grupos de irmãos, crianças especiais ou com deficiência, negros, crianças especiais ou com deficiência, negros, crianças maiores e adolescentes.</p>
 						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
 					</div>
