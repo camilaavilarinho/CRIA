@@ -115,7 +115,7 @@ get_header();
 						<h2>Pintando o Sete e Reunião com Famílias</h2>
 						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/acoes/pintando.jpg" alt="">
 						<p>O <strong>O Pintando o Sete e Reunião com Famílias </strong> é um evento que acontece na última quarta-feira de cada mês e consiste em reunir as Famílias Acolhedoras que participam do programa do Cria acolhendo crianças ou adolescentes em suas casas. No Pintando o Sete as crianças e adolescente desfrutam de atividades e brincadeiras junto a um grupo de voluntários ou estagiários. Já a Reunião das Famílias é sempre mediada por nossa equipe psicossocial, abordando temas relevantes para o convívio no acolhimento familiar.</p>
-						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
+						<!--<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>-->
 					</div>
 				</div>
 			</div>
@@ -138,7 +138,7 @@ get_header();
 						<h2>Manhã de Lazer</h2>
 						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/acoes/manha.jpg" alt="">
 						<p>Também chamada de <strong>Manhã de Piscina</strong>, é um evento que acontece nos últimos sábados dos meses com o objetivo de proporcionar lazer e bem-estar às crianças e adolescentes que vivem em instituições de acolhimento de Teresina.</p>
-						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
+						<!--<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>-->
 					</div>
 				</div>
 			</div>
@@ -161,7 +161,7 @@ get_header();
 						<h2>Seminários Estaduais</h2>
 						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/acoes/seminario.jpg" alt="">
 						<p>Realizamos a cada dois anos um seminário estadual elegendo temas relacionados à Adoção e à institucionalização de crianças e adolescentes com o objetivo de debater e propor melhorias para os problemas que cerceiam o universo da Adoção.</p>
-						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
+						<!--<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>-->
 					</div>
 				</div>
 			</div>
@@ -184,7 +184,7 @@ get_header();
 						<h2>Exposições Fotográficas</h2>
 						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/acoes/exposicao.jpg" alt="">
 						<p>Também realizadas a cada dois anos, as exposições fotográficas são intervenções que visam sensibilizar e chamar a atenção da sociedade sobre temas, relacionados à adoção, que ainda são tabus.</p>
-						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
+						<!--<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>-->
 					</div>
 				</div>
 			</div>
@@ -207,7 +207,7 @@ get_header();
 						<h2>Projeto de Mãos Dadas</h2>
 						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/acoes/maosdadas.jpg" alt="">
 						<p>Tem como objetivo fortalecer os laços entre os componentes do Sistema de Garantia de Direitos de Crianças e Adolescentes e, a partir disso, melhorar a qualidade de vida dentro dos abrigos.</p>
-						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
+						<!--<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>-->
 					</div>
 				</div>
 			</div>
@@ -230,7 +230,7 @@ get_header();
 						<h2>Campanha Abandonar é Crime</h2>
 						<img class="img-responsive img-centered" src="<?php bloginfo('stylesheet_directory'); ?>/images/projetos/acoes/abandonar.jpg" alt="">
 						<p>Visa evitar o abandono de crianças e enfatizar a diferença entre o abandono e a entrega consciente de um filho para adoção, sensibilizando a sociedade e desmistificando todo o processo que envolve a desistência legal do poder familiar.</p>
-						<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>
+						<!--<a class="btn" href="<?php printf(home_url());?>/form" role="button"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Se inscreva</a>-->
 					</div>
 				</div>
 			</div>
